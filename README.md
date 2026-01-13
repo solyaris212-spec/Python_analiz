@@ -5,4 +5,4 @@
 Создайте там же в ноутбуке папку "charts". У вас должно получиться как на изображении:
 <img width="350" height="346" alt="image" src="https://github.com/user-attachments/assets/503767d1-40d5-4595-b0cb-37720cf73316" />
 
-Запуститекод
+Запустите код
